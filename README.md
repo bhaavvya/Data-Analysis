@@ -2,8 +2,6 @@
 <h1>This repo containes Data analysis work I performed on different datasets</h1>
 <p>It also includes my practice files.</p>
 
-Here’s a **Git Commands for Beginners** section, formatted for a GitHub `README.md` file. You can copy and paste this directly into your `README.md` to provide an easy-to-read reference for Git commands.
-
 ---
 
 # Git Commands 
