@@ -6,9 +6,9 @@ Here’s a **Git Commands for Beginners** section, formatted for a GitHub `READM
 
 ---
 
-# Git Commands for Beginners
+# Git Commands 
 
-This is a quick reference for basic Git commands, ideal for beginners to manage their repositories.
+This is a quick reference for basic Git commands.
 
 ## 1. Setup and Configuration
 ```bash
